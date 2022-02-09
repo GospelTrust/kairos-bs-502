@@ -1,6 +1,11 @@
 body {
-  font-family: 'Lexend', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Amatic SC', serif;
+  font-weight: 700;
 }
 
 .video-background {
@@ -35,4 +40,8 @@ tr:nth-child(odd) {
 code {
   white-space: pre-wrap;
   color: brown;
+}
+
+pre code {
+  font-family: 'Noto Sans', sans-serif;
 }
