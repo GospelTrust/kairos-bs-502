@@ -41,6 +41,12 @@ code {
   color: brown;
 }
 
+pre {
+  background: linear-gradient(rgba(0,0,0,0.05),rgba(0,0,0,0.05));
+  padding: 10px;
+}
+
 pre code {
   font-family: 'Noto Sans', sans-serif;
+  color: inherit;
 }
