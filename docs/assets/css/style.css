@@ -22,7 +22,12 @@ table, th, td {
   border-collapse: collapse;
   padding: 5px;
 }
- 
+
 tr:nth-child(odd) {
   background-color: #ddd;
+}
+
+.middle-align {
+  display: flex;
+  align-items: center;;
 }
