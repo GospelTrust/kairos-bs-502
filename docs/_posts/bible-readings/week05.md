@@ -1,5 +1,3 @@
-## Reading for Week #5
-
 Reading | Chapters
 --- | ---
 Micah | 7

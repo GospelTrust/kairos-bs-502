@@ -1,5 +1,3 @@
-## Reading for Week #4
-
 Reading | Chapters
 --- | ---
 Matt 13 & Mark 4 | 2

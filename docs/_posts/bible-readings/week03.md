@@ -1,5 +1,3 @@
-## Reading for Week #3
-
 Reading | Chapters
 --- | ---
 Psalms 9 & 10 | 2

@@ -1,5 +1,3 @@
-## Reading for Week #1
-
 Reading | Chapters
 --- | ---
 Genesis 12–33 | 22
