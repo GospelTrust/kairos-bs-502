@@ -29,5 +29,10 @@ tr:nth-child(odd) {
 
 .middle-align {
   display: flex;
-  align-items: center;;
+  align-items: center;
+}
+
+code {
+  white-space: pre-wrap;
+  color: brown;
 }

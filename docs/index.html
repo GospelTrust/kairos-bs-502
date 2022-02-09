@@ -12,7 +12,11 @@ layout: default
     </tr>
     {% for post in site.posts reversed %}
       <tr>
-        <td>{{ post.lecture }} ({{ post.handout }})</td>
+        {% if post.handout %}
+          <td>{{ post.lecture }} ({{ post.handout }})</td>
+        {% else %}
+          <td>{{ post.lecture }}</td>
+        {% endif %}
         <td><a href="{{ post.url }}">{{ post.title }}</a></td>
       </tr>
     {% endfor %}
