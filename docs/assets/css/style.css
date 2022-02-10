@@ -4,7 +4,8 @@ body {
 }
 
 a, a:visited {
-  color: cornflowerblue;
+  color: deeppink;
+  text-decoration-thickness: -0.5px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -62,8 +63,8 @@ pre code {
 }
 
 blockquote {
-  border-left: 5px solid gray;
-  padding-left: 5px;
-  margin-left: 30px;
+  border-left: 2px solid lightgray;
+  padding-left: 10px;
+  margin-left: 20px;
   font-family: Prata, serif;
 }
