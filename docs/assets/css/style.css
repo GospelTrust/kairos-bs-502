@@ -3,6 +3,10 @@ body {
   font-size: 20px;
 }
 
+a, a:visited {
+  color: cornflowerblue;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Prata', serif;
 }
@@ -34,6 +38,12 @@ tr:nth-child(odd) {
 .middle-align {
   display: flex;
   align-items: center;
+  text-transform: uppercase;
+  text-decoration: none;;
+}
+
+.middle-align img {
+  margin-right: 5px;
 }
 
 code {
@@ -49,4 +59,11 @@ pre {
 pre code {
   font-family: 'Noto Sans', sans-serif;
   color: inherit;
+}
+
+blockquote {
+  border-left: 5px solid gray;
+  padding-left: 5px;
+  margin-left: 30px;
+  font-family: Prata, serif;
 }
