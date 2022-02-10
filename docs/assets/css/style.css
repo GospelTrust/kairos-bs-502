@@ -4,7 +4,7 @@ body {
 }
 
 a, a:visited {
-  color: deeppink;
+  color: crimson;
   text-decoration-thickness: -0.5px;
 }
 
@@ -63,7 +63,7 @@ pre code {
 }
 
 blockquote {
-  border-left: 2px solid lightgray;
+  border-left: 5px solid lightgray;
   padding-left: 10px;
   margin-left: 20px;
   font-family: Prata, serif;
