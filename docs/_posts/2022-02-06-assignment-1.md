@@ -10,4 +10,4 @@ week: 1
 
 # Assignment {{ page.assignment }}: {{ page.title }}
 
-{% include_relative assignment/01.md %}
+{% include_relative assignments/01.md %}
