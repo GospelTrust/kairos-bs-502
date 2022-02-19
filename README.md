@@ -48,7 +48,7 @@ Quiz 2 | Friday Feb 25 / Saturday Feb 26
 Work | Info | Topic
 ---: | :--- | :---
 Lecture 16 | [Handout 15] | Insights for Interpreting NT Epistles.
-Lecture 17 | [Hangout 16] | The Importance of Reading the Rest of the Bible
-Lecture 18 | [Hangout 17] | Can We "Plop & Point"?
+Lecture 17 | [Handout 16] | The Importance of Reading the Rest of the Bible
+Lecture 18 | [Handout 17] | Can We "Plop & Point"?
 Assignment 5 | Sunday Mar 6, 11:59 pm | Micah, and Galatians
 Final Exam | TBD |
