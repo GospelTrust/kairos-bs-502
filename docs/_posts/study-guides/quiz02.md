@@ -38,6 +38,6 @@
 
 - Be able to explain the term _"redemptive-historical context."_
 
-[Handout #03]: {% post_url 2022-02-03-lecture-3 %}
+[Handout #03]: {% post_url 2022-02-02-lecture-3 %}
 [Handout #06]: {% post_url 2022-02-07-lecture-6 %}
 [Handout #07]: {% post_url 2022-02-14-lecture-10 %}
