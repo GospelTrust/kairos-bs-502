@@ -5,31 +5,30 @@ layout: default
 <center>
   <img src="/assets/logo.svg" width="100"/>
   <h1>{{ site.title }}</h1>
-  <table style="border: none">
-    {% for post in site.posts reversed %}
-      <tr>
-        {% if post.type == 'index' %}
-          <th>
-            <a href="{{ post.url }}">
-              Week {{ post.week }} &mdash; {{ post.dates }}
-            </a>
-          </th>
-        {% elsif post.handout %}
-          <td>
-            Lecture {{ post.lecture }} (Handout {{ post.handout }})<br>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </td>
-        {% elsif post.assignment %}
-          <td>
-            Assignment {{ post.assignment }}<br>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </td>
-        {% else %}
-          <td>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </td>
-        {% endif %}
-      </tr>
-    {% endfor %}
-  </table>
 </center>
+
+{% for post in site.posts reversed %}
+  {% if post.type == 'index' %}
+    <h2>
+      <a href="{{ post.url }}">
+        Week {{ post.week }} &mdash; {{ post.dates }}
+      </a>
+    </h2>
+    <ul>
+  {% elsif post.handout %}
+      <li>
+        Lecture {{ post.lecture }} (Handout {{ post.handout }}) &mdash;
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+  {% elsif post.assignment %}
+      <li>
+        <b>Assignment {{ post.assignment }}</b> &mdash;
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    </ul>
+  {% else %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+  {% endif %}
+{% endfor %}
