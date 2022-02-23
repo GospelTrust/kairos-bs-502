@@ -2,7 +2,7 @@
 
 ### [Handout #03], [Handout #06], & [Handout #07], esp. Narrative & Poetry
 
-- Again, be able to name the six basic categories of things we pay attention to when we read the Bible.
+- Again, be able to name the six basic categories of things we pay attention to when we read the Bible. (See [Handout #02])
 
 - Be able to complete and explain the following sentence: "Don't build a big house…" (See [Handout #03])
 
@@ -15,9 +15,9 @@
   Be able to give one example of this principle.
 
   - The matter of … (`1 Kings 15:5`)
-  - Adonijah's request (i`1 Kings 2:22`)
-  - King Saul's conjuring
-  - Ahithophel's hanging
+  - Adonijah's request (`1 Kings 2:22`)
+  - King Saul's conjuring (`1 Sam 28`)
+  - Ahithophel's hanging (`2 Sam 17:23`)
 
 - Be able to describe the basic differences between **narrative** and **poetry**. (See [Handout #02])
 
@@ -48,7 +48,7 @@
 
 [Handout #02]: {% post_url 2022-02-01-lecture-2 %}
 [Handout #03]: {% post_url 2022-02-02-lecture-3 %}
-[Handout #06]: {% post_url 2022-02-07-lecture-6 %}
+[Handout #06]: {% post_url 2022-02-09-lecture-8 %}
 [Handout #07]: {% post_url 2022-02-14-lecture-10 %}
 [Handout #14a]: {% post_url 2022-02-22-lecture-14a %}
 [Handout #17]: {% post_url 2022-03-02-lecture-18 %}
