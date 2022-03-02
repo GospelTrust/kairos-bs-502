@@ -16,7 +16,7 @@
 
 4. `4c` What gradually happened during those 40 years?
 
-5. `5` The covenant between God and Abraham ➜ is said to be with "Abraham and..."
+5. `5` The covenant between God and Abraham ➜ is said to be with "Abraham and…"
 
 6. `6` What are the two things that are most important for pagans when it comes to serving their 'gods'?
 
