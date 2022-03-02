@@ -2,7 +2,7 @@
 
 ### Review [Quiz #1] and [Quiz #2].
 
-1 . Which covenant is between the people of Israel and God?
+1. Which covenant is between the people of Israel and God?
 
 2. What are the three main promises to Abraham?
 
