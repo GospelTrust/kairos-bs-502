@@ -80,22 +80,27 @@
 
 [Quiz #1]: {% post_url 2022-02-11-quiz-1 %}
 [Quiz #2]: {% post_url 2022-02-25-quiz-2 %}
+
 [Handout #01]: {% post_url 2022-01-31-lecture-1 %}
 [Handout #02]: {% post_url 2022-02-01-lecture-2 %}
 [Handout #03]: {% post_url 2022-02-02-lecture-3 %}
-[Handout #04]: {% post_url 2022-02-03-lecture-4 %}
-[Handout #05]: {% post_url 2022-02-04-lecture-5 %}
-[Handout #06]: {% post_url 2022-02-07-lecture-6 %}
-[Handout #07]: {% post_url 2022-02-08-lecture-7 %}
-[Handout #08]: {% post_url 2022-02-09-lecture-8 %}
-[Handout #09]: {% post_url 2022-02-10-lecture-9 %}
+[Handout #08]: {% post_url 2022-02-03-lecture-4 %}
+[Handout #09]: {% post_url 2022-02-04-lecture-5 %}
+
+[Handout #04]: {% post_url 2022-02-07-lecture-6 %}
+[Handout #05]: {% post_url 2022-02-08-lecture-7 %}
+[Handout #06]: {% post_url 2022-02-09-lecture-8 %}
 [Handout #10]: {% post_url 2022-02-10-lecture-9 %}
+
+[Handout #07]: {% post_url 2022-02-14-lecture-10 %}
 [Handout #11]: {% post_url 2022-02-15-lecture-11 %}
 [Handout #12]: {% post_url 2022-02-16-lecture-12 %}
+
 [Handout #13]: {% post_url 2022-02-21-lecture-13 %}
 [Handout #14a]: {% post_url 2022-02-22-lecture-14a %}
 [Handout #14b]: {% post_url 2022-02-22-lecture-14b %}
 [Handout #14c]: {% post_url 2022-02-23-lecture-15 %}
-[Handout #16]: {% post_url 2022-02-28-lecture-16 %}
-[Handout #17]: {% post_url 2022-03-01-lecture-17 %}
-[Handout #18]: {% post_url 2022-03-02-lecture-18 %}
+
+[Handout #15]: {% post_url 2022-02-28-lecture-16 %}
+[Handout #16]: {% post_url 2022-03-01-lecture-17 %}
+[Handout #17]: {% post_url 2022-03-02-lecture-18 %}
