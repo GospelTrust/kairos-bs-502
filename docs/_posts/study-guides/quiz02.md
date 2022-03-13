@@ -30,7 +30,7 @@
 
 - What is an "editorial comment"? (See [Handout #06])
 
-- If the Old Testament records a large speech or sermon given by an "approved person," then ➜ what? (See [Handout #06])
+- If the Old Testament records a large speech or sermon given by an "approved person," then → what? (See [Handout #06])
 
 - What is the main literary feature of OT poetry? (See [Handout #07])
 
