@@ -1,6 +1,0 @@
-{%- assign _size = include.sections | size -%}
-{%- for h in include.sections %}
-<sub>Handout {{ h }}</sub>
-  {% include_relative handouts/{{ h }}.md %}
-  {% if forloop.index != _size %}<hr />{% endif %}
-{% endfor %}
