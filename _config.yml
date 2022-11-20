@@ -22,10 +22,10 @@ acc:
     alt_image: "logo.svg"
     alt_size: 200
     sizes: [ 48, 96, 144, 192, 300, 512, 800, 1024 ]
-  shortcut:
-    name: Syllabus
-    url: https://bs502.nissi.app/session/syllabus
-    desc: Class syllabus and contact information
+  shortcuts:
+    - name: Syllabus
+      url: https://bs502.nissi.app/session/syllabus
+      desc: Class syllabus and contact information
   meta:
     apple_icon: "logo-square-300.png"
     og_image: "logo-square-512.png"
