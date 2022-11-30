@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.1)
       public_suffix (>= 2.0.2, < 6.0)
-    askclass-course-theme (0.11.1)
+    askclass-course-theme (0.12.0)
       jekyll (~> 4.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
